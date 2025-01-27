@@ -21,7 +21,7 @@ Explore the **interactive Looker dashboard** for **real-time analysis** and deta
 
 > **Note**: Make sure you have the necessary permissions to view the dashboard.
 
-![Looker Dashboard Overview](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-1.png)
+![Looker Dashboard Overview](https://https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/images/google_site_screenshot.png)
 
 ---
 
