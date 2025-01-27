@@ -105,24 +105,24 @@ Explore the interactive Looker dashboard for real-time analysis and insights:
 ### Screenshots of Google Site and Looker Dashboards
 
 #### Google Site Screenshot
-![Google Site](https://your-image-link.com/google-site-screenshot.png)
+![Google Site](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/google-site-screenshot.png)
 
 #### Looker Dashboard Screenshots
 
 - **Dashboard 1**
-  ![Looker Dashboard 1](https://your-image-link.com/looker-dashboard-1.png)
+  ![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-1.png)
 
 - **Dashboard 2**
-  ![Looker Dashboard 2](https://your-image-link.com/looker-dashboard-2.png)
+  ![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-2.png)
 
 - **Dashboard 3**
-  ![Looker Dashboard 3](https://your-image-link.com/looker-dashboard-3.png)
+  ![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-3.png)
 
 - **Dashboard 4**
-  ![Looker Dashboard 4](https://your-image-link.com/looker-dashboard-4.png)
+  ![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-4.png)
 
 - **Dashboard 5**
-  ![Looker Dashboard 5](https://your-image-link.com/looker-dashboard-5.png)
+  ![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard-5.png)
 
 ---
 
