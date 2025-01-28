@@ -17,11 +17,11 @@ The dataset provides a detailed look at the vaccination progress across India. T
 ## **Live Looker Dashboard**
 Explore the **interactive Looker dashboard** for **real-time analysis** and detailed insights:
 
-🔗 **[Click to View Live Dashboard]([https://lookerstudio.google.com/reporting/1a950f3f-a56e-424a-bd1c-3ef0c512130b])**
+🔗 **[Click to View Live Dashboard](https://lookerstudio.google.com/reporting/1a950f3f-a56e-424a-bd1c-3ef0c512130b)**
 
 > **Note**: Make sure you have the necessary permissions to view the dashboard.
 
-![Looker Dashboard Overview](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/googlesitescreenshot.png)
+![Google Site](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/googlesitescreenshot.png)
 
 
 ---
@@ -113,13 +113,9 @@ These findings highlight the critical role of targeted vaccination strategies in
 
 #### **Looker Dashboard Screenshots**
 ![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard1.png)
-
 ![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard2.png)
-
 ![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard3.png)
-
 ![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard4.png)
-
 ![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard5.png)
 
 
