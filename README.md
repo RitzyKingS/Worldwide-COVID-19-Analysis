@@ -109,24 +109,19 @@ These findings highlight the critical role of targeted vaccination strategies in
 ### **Screenshots of Google Site and Looker Dashboards**
 
 #### **Google Site Screenshot**
-![Google Site](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/google_site_screenshot.png)
+![Google Site](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/googlesitescreenshot.png)
 
 #### **Looker Dashboard Screenshots**
+![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard1.png)
 
-- **Dashboard 1**
-  ![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard1.png)
+![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard2.png)
 
-- **Dashboard 2**
-  ![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard2.png)
+![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard3.png)
 
-- **Dashboard 3**
-  ![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard3.png)
+![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard4.png)
 
-- **Dashboard 4**
-  ![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard4.png)
+![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/lookerdashboard5.png)
 
-- **Dashboard 5**
-  ![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard5.png)
 
 ---
 
