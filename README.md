@@ -21,9 +21,8 @@ Explore the **interactive Looker dashboard** for **real-time analysis** and deta
 
 > **Note**: Make sure you have the necessary permissions to view the dashboard.
 
-![Looker Dashboard Overview](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/google_site_screenshot.png) 
+![Looker Dashboard Overview](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/googlesitescreenshot.png) 
 
-![Looker Dashboard Overview](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/blob/main/images/google_site_screenshot.png) 
 
 ---
 
@@ -115,19 +114,19 @@ These findings highlight the critical role of targeted vaccination strategies in
 #### **Looker Dashboard Screenshots**
 
 - **Dashboard 1**
-  ![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard_1.png)
+  ![Looker Dashboard 1](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard1.png)
 
 - **Dashboard 2**
-  ![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard_2.png)
+  ![Looker Dashboard 2](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard2.png)
 
 - **Dashboard 3**
-  ![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard_3.png)
+  ![Looker Dashboard 3](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard3.png)
 
 - **Dashboard 4**
-  ![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard_4.png)
+  ![Looker Dashboard 4](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard4.png)
 
 - **Dashboard 5**
-  ![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/looker-dashboard_5.png)
+  ![Looker Dashboard 5](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/tree/main/images/lookerdashboard5.png)
 
 ---
 
