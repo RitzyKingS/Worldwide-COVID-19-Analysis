@@ -14,15 +14,23 @@ The dataset provides a detailed look at the vaccination progress across India. T
 
 ---
 
-## **Live Looker Dashboard**
-Explore the **interactive Looker dashboard** for **real-time analysis** and detailed insights:
+Here’s the corrected section with the Google Site added:
 
-🔗 **[Click to View Live Dashboard](https://lookerstudio.google.com/reporting/1a950f3f-a56e-424a-bd1c-3ef0c512130b)**
+---
+
+## **Live Looker Dashboard and Google Site**
+Explore the **interactive Looker dashboard** for **real-time analysis** and detailed insights:  
+
+🔗 **[Click to View Live Dashboard](https://lookerstudio.google.com/reporting/1a950f3f-a56e-424a-bd1c-3ef0c512130b)**  
+
+Explore the full project overview and insights on the dedicated Google Site:  
+🔗 **[Click to Visit Google Site](https://sites.google.com/view/worldwide-covid-19-analysis?usp=sharing)**  
 
 > **Note**: Make sure you have the necessary permissions to view the dashboard.
 
 ![Google Site](https://raw.githubusercontent.com/RitzyKingS/Worldwide-COVID-19-Analysis/main/images/googlesitescreenshot.png)
 
+--- 
 
 ---
 
